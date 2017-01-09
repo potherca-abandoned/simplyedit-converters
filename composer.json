@@ -1,0 +1,21 @@
+{
+    "name": "potherca/simplyedit-converters",
+    "description": "Logic to convert specific templates to simply-edit enable HTML",
+    "type": "project",
+    "minimum-stability": "stable",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Ben Peachey",
+            "email": "potherca@gmail.com"
+        }
+    ],
+    "require": {
+        "ivopetkov/html5-dom-document-php": "^0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Potherca\\SimplyEdit\\": "src/"
+        }
+    }
+}
