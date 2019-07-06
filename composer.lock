@@ -1,11 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "1150f392ad57133f95c93f725d3e37dc",
-    "content-hash": "5a02ff545a2ee6887352ff19a74a2d17",
+    "content-hash": "38e108cd9e99d8e8c7f40d5d802c02f3",
     "packages": [
         {
             "name": "ivopetkov/html5-dom-document-php",
@@ -45,7 +44,7 @@
                 }
             ],
             "description": "HTML5 DOMDocument PHP library (extends DOMDocument)",
-            "time": "2017-01-09 05:18:26"
+            "time": "2017-01-09T05:18:26+00:00"
         }
     ],
     "packages-dev": [],
