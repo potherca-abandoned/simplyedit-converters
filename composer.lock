@@ -4,33 +4,34 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38e108cd9e99d8e8c7f40d5d802c02f3",
+    "content-hash": "a1d1556a6d5552885b1b33eab5518749",
     "packages": [
         {
             "name": "ivopetkov/html5-dom-document-php",
-            "version": "v0.4.2",
+            "version": "v0.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ivopetkov/html5-dom-document-php.git",
-                "reference": "51886f67bf4a4169d3fa87a442077d758f9ca241"
+                "reference": "41f17db82efb7b02130195b5238221fd2582b870"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/51886f67bf4a4169d3fa87a442077d758f9ca241",
-                "reference": "51886f67bf4a4169d3fa87a442077d758f9ca241",
+                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/41f17db82efb7b02130195b5238221fd2582b870",
+                "reference": "41f17db82efb7b02130195b5238221fd2582b870",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.5.0"
+                "ext-dom": "*",
+                "php": ">=7.0.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8"
+                "phpunit/phpunit": "6.*"
             },
             "type": "library",
             "autoload": {
-                "psr-4": {
-                    "IvoPetkov\\": "src/"
-                }
+                "files": [
+                    "autoload.php"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -44,7 +45,7 @@
                 }
             ],
             "description": "HTML5 DOMDocument PHP library (extends DOMDocument)",
-            "time": "2017-01-09T05:18:26+00:00"
+            "time": "2018-07-13T12:41:14+00:00"
         }
     ],
     "packages-dev": [],
