@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8f2f818e8df645e018c3bfc5e69c4e7e",
+    "content-hash": "6eb83cfb55c36b15ddcb8963e5cca382",
     "packages": [
         {
             "name": "ivopetkov/html5-dom-document-php",
-            "version": "v2.0.2",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ivopetkov/html5-dom-document-php.git",
-                "reference": "5c650195e679a1d5f9dc7bb0ecd078710d165ac6"
+                "reference": "9a60716344f71a8202d7738071460483ae63342b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/5c650195e679a1d5f9dc7bb0ecd078710d165ac6",
-                "reference": "5c650195e679a1d5f9dc7bb0ecd078710d165ac6",
+                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/9a60716344f71a8202d7738071460483ae63342b",
+                "reference": "9a60716344f71a8202d7738071460483ae63342b",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 }
             ],
             "description": "HTML5 DOMDocument PHP library (extends DOMDocument)",
-            "time": "2019-04-17T05:28:51+00:00"
+            "time": "2019-09-06T12:01:18+00:00"
         }
     ],
     "packages-dev": [],
