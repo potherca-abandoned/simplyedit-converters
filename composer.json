@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "ivopetkov/html5-dom-document-php": "2.1.0"
+        "ivopetkov/html5-dom-document-php": "2.2.9"
     },
     "autoload": {
         "psr-4": {
