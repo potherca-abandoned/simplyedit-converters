@@ -4,29 +4,28 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8672b2a06b6ab56f771adfc9c8f4ffad",
+    "content-hash": "2c3a078f401ff7b0e64c17a9fbf1a443",
     "packages": [
         {
             "name": "ivopetkov/html5-dom-document-php",
-            "version": "v2.2.9",
+            "version": "v2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ivopetkov/html5-dom-document-php.git",
-                "reference": "13306694beb2d413f9411e20f59a505d2ce3060b"
+                "reference": "311fefc9707e610aed149b5d705897bb6de2ab2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/13306694beb2d413f9411e20f59a505d2ce3060b",
-                "reference": "13306694beb2d413f9411e20f59a505d2ce3060b",
+                "url": "https://api.github.com/repos/ivopetkov/html5-dom-document-php/zipball/311fefc9707e610aed149b5d705897bb6de2ab2c",
+                "reference": "311fefc9707e610aed149b5d705897bb6de2ab2c",
                 "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
-                "php": "7.0.*|7.1.*|7.2.*|7.3.*|7.4.*|8.0.*"
+                "php": "7.0.*|7.1.*|7.2.*|7.3.*|7.4.*|8.0.*|8.1.*"
             },
             "require-dev": {
-                "ivopetkov/docs-generator": "0.2.*",
-                "phpunit/phpunit": "6.*|7.*|8.*|9.*"
+                "ivopetkov/docs-generator": "0.2.*"
             },
             "type": "library",
             "autoload": {
@@ -46,7 +45,7 @@
                 }
             ],
             "description": "HTML5 DOMDocument PHP library (extends DOMDocument)",
-            "time": "2021-01-17T21:29:24+00:00"
+            "time": "2022-04-26T07:04:02+00:00"
         }
     ],
     "packages-dev": [],
